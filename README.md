@@ -15,5 +15,6 @@ How to play exacty?
 Simply press start and click anywhere you want, except when you have to make a decision. 
 
 Huge focus on Python
+Cites: https://docs.google.com/document/d/1YIyeKAGkZnelkYJuc-JvTc2gADZfYzsyIWTS01PPHsM/edit?usp=sharing
 
 Created by: Khusi S, Siri V, and Asmi S
