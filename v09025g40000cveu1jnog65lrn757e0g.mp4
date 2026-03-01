@@ -1,5 +1,1 @@
-# Cut from 00:00:10 to 00:00:30 (keep 20 seconds)
-ffmpeg -i input.mp4 -ss 00:00:10 -to 00:00:30 -c copy output.mp4
 
-# Or specify duration instead of end time
-ffmpeg -i input.mp4 -ss 00:00:10 -t 20 -c copy output.mp4
